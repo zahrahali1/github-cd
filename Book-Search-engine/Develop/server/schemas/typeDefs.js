@@ -27,7 +27,7 @@ const typeDefs = `
     description: String
     title: String
     image: String
-    link: String
+    link: String 
   }
 
   type Query {
